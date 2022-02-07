@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naceryousfi
 - 👀 I’m interested in applied machine learning and deep learinign technques in the various research/industrail aria for instance signal processing, Cyber physical system(CPS)...
-- 🌱 I’m currently a research intern at Safran tech, my project is gear siganl analysis using neural network
+- 🌱 I’m currently a research intern at Safran tech, my project is gear siganls analysis using neural networks
 - 📫 you could reach out my via my  address email: nacer.yousfi@ept.ucar.tn
 
 <!---
